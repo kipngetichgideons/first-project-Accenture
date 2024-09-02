@@ -25,7 +25,7 @@ Social Buzz has experienced massive rapid growth, leading to an overwhelming amo
 
 ### 1. Data Understanding
 
-Data Sources:*
+Data Sources:
   - Content Data: Information on the types of content posted or uploaded on Social Buzz.
   - Reactions Data:* User reactions to the content, including likes, dislikes and comments.
   - Reaction Types Data: Different types of user reactions available on the platform.
@@ -70,18 +70,18 @@ Key Insights:
 - Reactions to Most Popular Category  
   The 'Animals' category has the highest number of reactions, with a total of  1,738 reactions.
 
--  Month with Most Posts: 
+- Month with Most Posts: 
   The month of Jan and May 2921 recorded the highest number of posts.
 
 ## Recommendations
 
--  Focus on High-Engagement Categories: 
+- Focus on High-Engagement Categories: 
   Promote and create more content in top-performing categories like 'Animals' to drive engagement.
 
--  Optimize Low-Engagement Areas:
+- Optimize Low-Engagement Areas:
   Reassess and improve content strategies for less engaged categories, such as 'Public speaking'.
 
--  Leverage Sentiment Analysis:
+- Leverage Sentiment Analysis:
   Use sentiment insights to tailor content that resonates more positively with users, particularly in the 'Photo' category.
 
 ## How to Run the Analysis
